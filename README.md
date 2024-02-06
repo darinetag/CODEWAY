@@ -28,4 +28,9 @@ Thanks to Codeway, I was given the chance to be creative and learn more of HTML,
 </ul>
 
 ## Getting Started
-To explore the completed tasks, you can easily navigate to each task's folder to find the materials and solutions.
+To explore the completed tasks, you can easily navigate to each task's folder to find the materials.
+or by cloning the repository as follows:
+-  git clone git@github.com:darinetag/CODEWAY.git
+-  cd CODEWAY
+-  cd CODEWAY
+-  Then select whichever project you would like to see
