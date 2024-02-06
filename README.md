@@ -12,9 +12,10 @@ Welcome to the CodeWay internship tasks! In this project, I worked on three diff
    <li><strong>Task 2: Portfolio ( HTML, CSS and Gifs as illustrations )</strong></li><br> 
    <img src="https://github.com/darinetag/CODEWAY/assets/137963187/9e6590dd-46ff-4eca-aad9-d24e7bcdc657" />
    <img src="https://github.com/darinetag/CODEWAY/assets/137963187/854dded0-fe0d-4deb-a97b-23857c1b36d6" />
-     <img src=" https://github.com/darinetag/CODEWAY/assets/137963187/96796fe4-d7bf-49f2-945f-47de5ebb90d0" />
-     <img src=" https://github.com/darinetag/CODEWAY/assets/137963187/8fa24c4b-0944-4a11-be5c-bf03e2450e52" />
-     <img src="https://github.com/darinetag/CODEWAY/assets/137963187/b02a3c42-f0e0-46c7-917a-f89738fdb4e0" /> <br>
+     <img src="https://github.com/darinetag/CODEWAY/assets/137963187/96796fe4-d7bf-49f2-945f-47de5ebb90d0" />
+     <img src="https://github.com/darinetag/CODEWAY/assets/137963187/8fa24c4b-0944-4a11-be5c-bf03e2450e52" />
+     <img src="https://github.com/darinetag/CODEWAY/assets/137963187/b02a3c42-f0e0-46c7-917a-f89738fdb4e0" /> 
+     <br>
      <li><strong>Task 3: Calculator ( HTML, CSS, JavaScript )</strong></li><br> 
      <img src="https://github.com/darinetag/CODEWAY/assets/137963187/55dae151-99f8-4939-9133-16b288674826" />
 </ol>
