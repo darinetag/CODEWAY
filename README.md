@@ -1,6 +1,6 @@
 # CODEWAY
 ## Web Development Internship
-Welcome to the CodeWay internship tasks! In this project, I worked on three different tasks: creating a Landing Page, a Portfolio, and a Calculator. 
+Welcome to the CodeWay internship tasks. In this project, I worked on three different tasks: creating a Landing Page, a Portfolio, and a Calculator. 
 ## Tasks
 <ol>
   <li><strong>Task 1: Landing Page ( HTML, CSS and Figma for design )</strong></li><br> 
